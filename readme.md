@@ -8,4 +8,4 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 # Tracking progress
 
-[x] 01 - JavaScript Drum Kit
+- [x] 01 - JavaScript Drum Kit
